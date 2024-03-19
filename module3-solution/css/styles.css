@@ -1,0 +1,267 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/**HEADER**/
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+    border: 0;
+}
+
+/**LOGO
+#logo-img {
+	background: url(../img/logo-min.png) no-repeat;
+  	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+	float: left;
+}**/
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+/*RESTAURANT NAME*/
+.navbar-brand h1{
+font-family: 'Lora', serif;
+color: #557c3e;
+font-size: 1.5em;
+font-weight: bold;
+text-shadow: 1px 1px 1px #222;
+margin-top: 0;
+margin-bottom: 0;
+line-height: .75; 
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+/*NAVIGATION LIST*/
+#nav-list {
+	margin-top: 10px; 
+}
+
+#nav-list a {
+	color: #951C49;
+    text-align: center;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+#phone {
+	margin-top: 5px; 
+}
+
+#phone a {/*Phone number*/
+	text-align: right;
+	padding-bottom: 0;
+}
+
+#phone div {/*We Deliver*/
+color: #557c3e;
+text-align: right;
+padding-right: 15px; 
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle {
+  float: right;
+  clear: both;
+}
+
+.navbar-header {
+	width: 100%;
+	float: right;
+	border: 1px solid #61122f;
+}
+
+.navbar-button {
+	float: right;
+}
+/* END HEADER */
+
+.div-content {
+  border: 1px solid black;
+  background-color: gray;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: Helvetica;
+  color: black;
+  padding-left: 5px;
+  text-align: left;
+  display: inline-block;
+  }
+
+.header-content {
+  width: 30%;
+  font-family: Helvetica;
+  font-size: 125%;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin: 0 auto;
+}
+
+#collapsable-nav a {/*Collapsed nav menu glyph */
+	font-size: 1.2em;
+	background-color: gray;
+
+}
+#collapsable-nav a span {
+	font-size: 1em;
+	margin-right: 5px;
+}
+
+/*Header*/
+.navbar-brand {
+	padding-left: 0px;
+	padding-top: 20px;
+	height: 60px;
+}
+
+@media(min-width: 1200px) {
+	.navbar-brand h1 {/*Restaurant name*/
+   		font-size: 2vw;
+	}
+}
+/********** Desktop devices only **********/
+@media(min-width: 992px) and (max-width: 1199px) {
+	/*Header*/
+	#logo-img {
+		background: url('../img/logo.png') no-repeat;
+		width: 100px;
+		height: 100px;
+		margin: 5px 5px 5px 0;
+	}
+	.navbar-brand h1 {/*Restaurant name*/
+   		font-size: 3vw;
+	}
+}
+
+/********** Tablet devices only **********/
+@media(min-width: 768px) and (max-width: 991px) {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12  {
+    float: left; 
+  }
+  .col-sm-1 {
+    width: 8.33%;
+  }
+  .col-sm-2 {
+    width: 16.66%;
+  }
+  .col-sm-3 {
+    width: 25%;
+  }
+  .col-sm-4 {
+    width: 33.33%;
+  }
+  .col-sm-5 {
+    width: 41.66%;
+  }
+  .col-sm-6 {
+    width: 50%;
+  }
+  .col-sm-7 {
+    width: 58.33%;
+  }
+  .col-sm-8 {
+    width: 66.66%;
+  }
+  .col-sm-9 {
+    width: 74.99%;
+  }
+  .col-sm-10 {
+    width: 83.33%;
+  }
+  .col-sm-11 {
+    width: 91.66%;
+  }
+  .col-sm-12 {
+    width: 100%;
+  }
+  .content-sm {
+    width: 95%;
+  }
+	/*Header*/
+	#logo-img {
+		background: url('../img/logo.png') no-repeat;
+		width: 100px;
+		height: 100px;
+		margin: 5px 5px 5px 0;
+	}
+	.navbar-brand h1 {/*Restaurant name*/
+   		font-size: 4vw;
+	}
+}
+
+/********** Mobile devices only **********/
+@media(max-width: 767px) {
+  .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12{
+    float: left; 
+  }
+  .col-xs-1 {
+    width: 8.33%;
+  }
+  .col-xs-2 {
+    width: 16.66%;
+  }
+  .col-xs-3 {
+    width: 25%;
+  }
+  .col-xs-4 {
+    width: 33.33%;
+  }
+  .col-xs-5 {
+    width: 41.66%;
+  }
+  .col-xs-6 {
+    width: 50%;
+  }
+  .col-xs-7 {
+    width: 58.33%;
+  }
+  .col-xs-8 {
+    width: 66.66%;
+  }
+  .col-xs-9 {
+    width: 74.99%;
+  }
+  .col-xs-10 {
+    width: 83.33%;
+  }
+  .col-xs-11 {
+    width: 91.66%;
+  }
+  .col-xs-12 {
+    width: 100%;
+  }
+  .navbar-header {
+  	float: left;
+  }
+  .navbar-brand h1 {/*Restaurant name*/
+   		font-size: 6vw;
+	}
+}
+
+
+
+ 
