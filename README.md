@@ -10,4 +10,7 @@
 🟣 Ajax  
 
 ### Adaptive design
-😀 Adaptive design allows the website or application to adapt to the size and resolution of the user's device screen, providing better readability, navigation, and interaction with the content.  
+😀 Adaptive design allows the website or application to adapt to the size and resolution of the user's device screen, providing better readability, navigation, and interaction with the content. 
+
+🖥️ Desktop version
+![Desctop](https://github.com/IakovlevaNatalia/Coursera/assets/69373349/4ada03fc-29f6-4099-8503-9e14eb5ecb3d)  
