@@ -20,7 +20,11 @@
 
 🤳🏼Mobile virsion. Adaptive design helps reduce bounce rates and increase the time users spend on the website, as it creates a more pleasant and engaging visual impression.     
 ![1](https://github.com/IakovlevaNatalia/Website/assets/69373349/2335d5ab-8bea-41e3-9926-7032ab3fd7e3)
-![2](https://github.com/IakovlevaNatalia/Website/assets/69373349/21752c95-cdf5-467a-8395-aa6ae94bd59e)
+![2](https://github.com/IakovlevaNatalia/Website/assets/69373349/21752c95-cdf5-467a-8395-aa6ae94bd59e)  
+
+👩🏼‍🎓 Course certificate  
+![Coursera](https://github.com/IakovlevaNatalia/Website/assets/69373349/9cbdc2f9-3bab-4b8c-82fa-c9946dad3e7e)
+
 
 
 
