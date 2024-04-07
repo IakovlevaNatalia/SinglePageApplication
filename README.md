@@ -23,7 +23,7 @@
 ![2](https://github.com/IakovlevaNatalia/Website/assets/69373349/21752c95-cdf5-467a-8395-aa6ae94bd59e)  
 
 👩🏼‍🎓 Course certificate  
-![Coursera](https://github.com/IakovlevaNatalia/Website/assets/69373349/9cbdc2f9-3bab-4b8c-82fa-c9946dad3e7e)
+<img src="https://github.com/IakovlevaNatalia/Website/assets/69373349/9cbdc2f9-3bab-4b8c-82fa-c9946dad3e7e" alt="Coursera" width="400" height="300">  
 
 
 
