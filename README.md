@@ -15,10 +15,10 @@
 🖥️ Desktop version. Search engines like Google prefer websites with adaptive design because they provide a better user experience. This can lead to an improvement in the website's ranking in search results.
 ![Desctop](https://github.com/IakovlevaNatalia/Coursera/assets/69373349/4ada03fc-29f6-4099-8503-9e14eb5ecb3d)  
 
-📔Tablet version    
+📔Tablet version. Instead of creating separate versions of the website for different devices, adaptive design allows developers to create a unified codebase that can adapt to various devices, saving time and resources.    
 ![MediumDevice](https://github.com/IakovlevaNatalia/Website/assets/69373349/0774afd7-5bf2-46f5-9ae2-5b2319f8e9a9)  
 
-🤳🏼Mobile virsion   
+🤳🏼Mobile virsion. Adaptive design helps reduce bounce rates and increase the time users spend on the website, as it creates a more pleasant and engaging visual impression.     
 ![1](https://github.com/IakovlevaNatalia/Website/assets/69373349/2335d5ab-8bea-41e3-9926-7032ab3fd7e3)
 ![2](https://github.com/IakovlevaNatalia/Website/assets/69373349/21752c95-cdf5-467a-8395-aa6ae94bd59e)
 
