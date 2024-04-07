@@ -15,6 +15,7 @@
 🖥️ Desktop version. Search engines like Google prefer websites with adaptive design because they provide a better user experience. This can lead to an improvement in the website's ranking in search results.
 ![Desctop](https://github.com/IakovlevaNatalia/Coursera/assets/69373349/4ada03fc-29f6-4099-8503-9e14eb5ecb3d)  
 
-📔Tablet version.  
-![Medium](https://github.com/IakovlevaNatalia/Coursera/assets/69373349/d5bd0329-1139-40aa-b9ca-e5a38d28f7ef)
+📔Tablet version    
+![TabletDevice](https://github.com/IakovlevaNatalia/Website/assets/69373349/4a2b33eb-3ed7-40a7-8702-19a85e73350e)  
+
 
