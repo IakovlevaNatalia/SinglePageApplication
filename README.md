@@ -18,12 +18,12 @@
 📔Tablet version. Instead of creating separate versions of the website for different devices, adaptive design allows developers to create a unified codebase that can adapt to various devices, saving time and resources.    
 ![MediumDevice](https://github.com/IakovlevaNatalia/Website/assets/69373349/0774afd7-5bf2-46f5-9ae2-5b2319f8e9a9)  
 
-🤳🏼Mobile virsion. Adaptive design helps reduce bounce rates and increase the time users spend on the website, as it creates a more pleasant and engaging visual impression.     
+🤳🏼Mobile version. Adaptive design helps reduce bounce rates and increase the time users spend on the website, as it creates a more pleasant and engaging visual impression.     
 ![1](https://github.com/IakovlevaNatalia/Website/assets/69373349/2335d5ab-8bea-41e3-9926-7032ab3fd7e3)
 ![2](https://github.com/IakovlevaNatalia/Website/assets/69373349/21752c95-cdf5-467a-8395-aa6ae94bd59e)  
 
 👩🏼‍🎓 Course certificate  
-<img src="https://github.com/IakovlevaNatalia/Website/assets/69373349/9cbdc2f9-3bab-4b8c-82fa-c9946dad3e7e" alt="Coursera" width="400" height="300">  
+<img src="https://github.com/IakovlevaNatalia/Website/assets/69373349/9cbdc2f9-3bab-4b8c-82fa-c9946dad3e7e" alt="Coursera" width="450" height="300">  
 
 
 
