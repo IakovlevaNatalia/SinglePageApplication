@@ -16,6 +16,13 @@
 ![Desctop](https://github.com/IakovlevaNatalia/Coursera/assets/69373349/4ada03fc-29f6-4099-8503-9e14eb5ecb3d)  
 
 📔Tablet version    
-![TabletDevice](https://github.com/IakovlevaNatalia/Website/assets/69373349/4a2b33eb-3ed7-40a7-8702-19a85e73350e)  
+![MediumDevice](https://github.com/IakovlevaNatalia/Website/assets/69373349/0774afd7-5bf2-46f5-9ae2-5b2319f8e9a9)  
+
+🤳🏼Mobile virsion   
+![1](https://github.com/IakovlevaNatalia/Website/assets/69373349/2335d5ab-8bea-41e3-9926-7032ab3fd7e3)
+![2](https://github.com/IakovlevaNatalia/Website/assets/69373349/21752c95-cdf5-467a-8395-aa6ae94bd59e)
+
+
+
 
 
