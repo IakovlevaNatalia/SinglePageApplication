@@ -30,7 +30,7 @@
               </a>
             </li>
            <li>
-             <a href="menu-categories.html">
+            <a href="#" onclick="$dc.loadMenuCategories();">
                <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> Menu</a>
            </li>
            <li>
@@ -65,7 +65,7 @@
             </a>
           </li>
          <li>
-           <a href="menu-categories.html">
+          <a href="#" onclick="$dc.loadMenuCategories();">
              <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> Menu</a>
          </li>
          <li>
@@ -97,15 +97,10 @@
 <div id="xs-deliver" class="text-center visible-xs">* We Deliver</div>
 
 <div id="main-content" class="container">
-  <div class="jumbotron">  
-   <!-- <img src="img/chinese-restaurant-768.jpg" class="img-responsive hidden-lg hidden-md hidden-xs">-->
-   <!--<img src="img/chinese-restaurant-768.jpg" class="img-responsive hidden-lg hidden-md hidden-sm">-->
-   <!-- <img src="img/chinese-restaurant-992.jpg" class="img-responsive hidden-lg hidden-xs hidden-sm">-->
-    <!--<img src="img/chinese-restaurant-1200.jpg" class="img-responsive hidden-md hidden-xs hidden-sm">-->
-    </div>
+<!-- <div class="jumbotron"> </div>-->
     <div id="home-tiles" class="row">
       <div class="col-md-4 col-sm-6 col-xs-12">
-        <a href="menu-categories.html"><div id="menu-tile"><span>menu</span></div></a>
+        <a href="#" onclick="$dc.loadMenuCategories();"><div id="menu-tile"><span>menu</span></div></a>
       </div>
       <div class="col-md-4 col-sm-6 col-xs-12">
         <a href="single-category.html"><div id="specials-tile"><span>specials</span></div></a>
@@ -149,6 +144,7 @@
   <!-- jQuery (Bootstrap JS plugins depend on it) -->
   <script src="js/jquery-1.11.3.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
+  <script src="js/ajax-utils.js"></script>
   <script src="js/script.js"></script>
 </body>
 </html>

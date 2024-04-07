@@ -20,7 +20,6 @@ body{
 	margin: 10px 15px 10px 0;
 	float: left;
 }
-
 .navbar-brand {
 	padding-top: 25px;
 }
@@ -37,7 +36,6 @@ margin-bottom: 0;
 margin-left: 35px;
 line-height: .75; 
 }
-
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
 }
@@ -46,50 +44,40 @@ line-height: .75;
 #nav-list {
 	margin-top: 0px; 
 }
-
 #nav-list a {
 	color: #951C49;
   text-align: center;
 }
-
 #nav-list a:hover {
 	background: #E7E7E7;
 }
-
 #nav-list a span {
 	font-size: 1.8em;
 }
-
 #phone {
 	margin-top: 5px; 
 }
-
 #phone a {/*Phone number*/
 	text-align: right;
 	padding-bottom: 0;
 }
-
 #phone div {/*We Deliver*/
 color: #557c3e;
 text-align: right;
 padding-right: 15px; 
 }
-
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
 }
-
 .navbar-header button.navbar-toggle {
   float: right;
   clear: both;
 }
-
 .navbar-header {
 	width: 100%;
 	float: right;
 	border: 1px solid #61122f;
 }
-
 .navbar-button {
 	float: right;
 }
@@ -124,7 +112,6 @@ padding-right: 15px;
   margin-top: 25px;
 }
 /* HOME PAGE*/
-
 #menu-tile, #specials-tile, #map-tile {
   height: 250px;
   width: 100%;
@@ -133,11 +120,9 @@ padding-right: 15px;
   border: 2px solid #3F0C1F;
   overflow: hidden;
 }
-
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
-
 #menu-tile {
   background: url('../img/menu-tile.jpg') no-repeat;
   background-position: center;
@@ -146,7 +131,6 @@ padding-right: 15px;
   background: url('../img/specials-tile.jpg') no-repeat;
   background-position: center;
 }
-
 #menu-tile span, #specials-tile span, #map-tile span {
   position: absolute;
   bottom: 0;
@@ -173,7 +157,6 @@ padding-right: 15px;
   text-align: left;
   display: inline-block;
   }
-
 .header-content {
   width: 30%;
   font-family: Helvetica;
@@ -189,7 +172,6 @@ padding-right: 15px;
 #collapsable-nav a {/*Collapsed nav menu glyph */
 	font-size: 1.2em;
 	background-color: #f6b319;
-
 }
 #collapsable-nav a span {
 	font-size: 1em;
@@ -202,7 +184,6 @@ padding-right: 15px;
 	padding-top: 20px;
 	height: 60px;
 }
-
 #phone {
   margin-top: 5px;
 }
@@ -306,7 +287,7 @@ h3.menu-item-title {
    background: url('../img/chinese-restaurant-1200.jpg') no-repeat;
     background-size: cover;
     background-color:#61122f;
-    height: 500px;
+    height: 390px;
     width: auto;
     background-position: center; 
     border: 2px solid #3F0C1F; 
@@ -318,7 +299,7 @@ h3.menu-item-title {
   .navbar-brand h1 {/*Restaurant name*/
     font-size: 3vw; 
  }
- 
+  
 	/*Header*/
 	#logo-img {
 		background: url('../img/logocafemini.png') no-repeat;
@@ -352,101 +333,24 @@ h3.menu-item-title {
 		height: 100px;
 		margin: 5px 5px 5px 0;
 	}
- /* .col-sm-1 {
-    width: 8.33%;
-  }
-  .col-sm-2 {
-    width: 16.66%;
-  }
-  .col-sm-3 {
-    width: 25%;
-  }
-  .col-sm-4 {
-    width: 33.33%;
-  }
-  .col-sm-5 {
-    width: 41.66%;
-  }
-  .col-sm-6 {
-    width: 50%;
-  }
-  .col-sm-7 {
-    width: 58.33%;
-  }
-  .col-sm-8 {
-    width: 66.66%;
-  }
-  .col-sm-9 {
-    width: 74.99%;
-  }
-  .col-sm-10 {
-    width: 83.33%;
-  }
-  .col-sm-11 {
-    width: 91.66%;
-  }
-  .col-sm-12 {
-    width: 100%;
-  }
-  .content-sm {
-    width: 95%;
-  }*/
   .jumbotron {
     background: url('../img/chinese-restaurant-768.jpg') no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 200px;
     width: auto;
     background-position: center; 
     border: 2px solid #3F0C1F; 
-    box-shadow: 0 0 50px #3F0C1F; 
-  
+    box-shadow: 0 0 50px #3F0C1F;   
+  }
+  #menu-tile, #specials-tile {
+    width: 100%;
+    margin: 0 auto 15px;
+    height: 200px;
   }
 }
 
 /********** Small devices only **********/
-@media(max-width: 767px) {/*
-  .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12{
-    float: left; 
-  }
-  .col-xs-1 {
-    width: 8.33%;
-  }
-  .col-xs-2 {
-    width: 16.66%;
-  }
-  .col-xs-3 {
-    width: 25%;
-  }
-  .col-xs-4 {
-    width: 33.33%;
-  }
-  .col-xs-5 {
-    width: 41.66%;
-  }
-  .col-xs-6 {
-    width: 50%;
-  }
-  .col-xs-7 {
-    width: 58.33%;
-  }
-  .col-xs-8 {
-    width: 66.66%;
-  }
-  .col-xs-9 {
-    width: 74.99%;
-  }
-  .col-xs-10 {
-    width: 83.33%;
-  }
-  .col-xs-11 {
-    width: 91.66%;
-  }
-  .col-xs-12 {
-    width: 100%;
-  }
-  .navbar-header {
-  	float: left;
-  }*/
+@media(max-width: 767px) {
   .navbar-brand h1 {/*Restaurant name*/
    		font-size: 4vw;
 	}
@@ -493,7 +397,7 @@ h3.menu-item-title {
   /* Home Page */
 
   #menu-tile, #specials-tile {
-    width: 360px;
+   
     margin: 0 auto 15px;
   }
   .menu-item-photo {
@@ -518,10 +422,9 @@ h3.menu-item-title {
   
   /* Home page */
   #menu-tile, #specials-tile {
-    width: 280px;
+    width: 100%;
     margin: 0 auto 15px;
   }
-
   .col-xxs-12 {
     position: relative;
     min-height: 1px;
